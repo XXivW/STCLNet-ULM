@@ -6,7 +6,7 @@
 
 **Lightweight localization · Spatiotemporal modeling · High-throughput ULM**
 
-[Overview](#overview) · [Public dataset](#public-dataset) · [Reconstruction gallery](#reconstruction-gallery) · [Image index](#image-index) · [Repository structure](#repository-structure)
+[Overview](#overview) · [Public dataset](#public-dataset) · [Reconstruction gallery](#reconstruction-gallery) · [Repository structure](#repository-structure)
 
 <br>
 
