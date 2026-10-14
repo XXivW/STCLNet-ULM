@@ -56,7 +56,7 @@ Explore each sample across the three visualization types. **Click any image to o
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="PALA_results/intensity/RatBrain.png"><img src="PALA_results/intensity/RatBrain.png" alt="Rat brain: intensity reconstruction" width="280" height="180"></a></td>
+      <td align="center"><a href="PALA_results/intensity/RatBrain.png"><img src="PALA_results/intensity/RatBrain.png" alt="Rat brain: intensity reconstruction" width="280" height="185"></a></td>
       <td align="center"><a href="PALA_results/direction/RatBrain.png"><img src="PALA_results/direction/RatBrain.png" alt="Rat brain: direction reconstruction" width="280"></a></td>
       <td align="center"><a href="PALA_results/velocity/RatBrain.png"><img src="PALA_results/velocity/RatBrain.png" alt="Rat brain: velocity reconstruction" width="280"></a></td>
     </tr>
