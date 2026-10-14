@@ -39,7 +39,7 @@ The reconstructions shown below use the publicly available **PALA dataset**. PAL
 
 We thank the PALA authors for making these resources publicly available. Please refer to the original repositories for dataset details, usage terms, and citation information.
 
-## Reconstruction gallery
+## Reconstruction
 
 Explore each sample across the three visualization types. **Click any image to open the full-resolution PNG.** Color scales and annotations are retained as provided in the original images.
 
