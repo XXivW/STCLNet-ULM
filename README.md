@@ -119,17 +119,6 @@ Explore each sample across the three visualization types. **Click any image to o
   </tbody>
 </table>
 
-## Image index
-
-Direct links to all full-resolution reconstructions.
-
-| Sample | Intensity | Direction | Velocity |
-| :--- | :---: | :---: | :---: |
-| Rat brain | [PNG](PALA_results/intensity/RatBrain.png) | [PNG](PALA_results/direction/RatBrain.png) | [PNG](PALA_results/velocity/RatBrain.png) |
-| Rat brain · bolus | [PNG](PALA_results/intensity/RatBrainBolus.png) | [PNG](PALA_results/direction/RatBrainBolus.png) | [PNG](PALA_results/velocity/RatBrainBolus.png) |
-| Rat kidney | [PNG](PALA_results/intensity/RatKidney.png) | [PNG](PALA_results/direction/RatKidney.png) | [PNG](PALA_results/velocity/Kidney.png) |
-| Mouse tumor | [PNG](PALA_results/intensity/MouseTumor.png) | [PNG](PALA_results/direction/MouseTumor.png) | [PNG](PALA_results/velocity/MouseTumor.png) |
-
 <details>
 <summary><strong>Viewing notes</strong></summary>
 
