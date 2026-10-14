@@ -34,7 +34,7 @@ The reconstructions shown below use the publicly available **PALA dataset**. PAL
 
 | Resource | Description | Link |
 | :--- | :--- | :--- |
-| **PALA · GitHub** | MATLAB scripts and functions for the PALA benchmark, together with the LOTUS software. | [PALA](https://github.com/AChavignon/PALA) |
+| **PALA · GitHub** | MATLAB scripts and functions for the PALA benchmark, together with the LOTUS software. | https://github.com/AChavignon/PALA |
 | **PALA · Zenodo** | Public simulated and in vivo datasets. | [Download datasets · DOI: 10.5281/zenodo.4343435](https://doi.org/10.5281/zenodo.4343435) |
 
 We thank the PALA authors for making these resources publicly available. Please refer to the original repositories for dataset details, usage terms, and citation information.
