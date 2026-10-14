@@ -28,17 +28,13 @@
 
 This repository presents additional reconstruction results on the public **PALA dataset**, with complementary views of vascular structure and flow.
 
-| Intensity | Direction | Velocity |
-| :--- | :--- | :--- |
-| Reconstruction intensity maps | Flow-direction visualizations | Velocity-magnitude maps |
-
 ## Public dataset
 
 The reconstructions shown below use the publicly available **PALA dataset**. PALA provides simulated and in vivo ultrasound data for ultrasound localization microscopy research.
 
 | Resource | Description | Link |
 | :--- | :--- | :--- |
-| **PALA · GitHub** | MATLAB scripts and functions for the PALA benchmark, together with the LOTUS software. | [Explore PALA](https://github.com/AChavignon/PALA) |
+| **PALA · GitHub** | MATLAB scripts and functions for the PALA benchmark, together with the LOTUS software. | [PALA](https://github.com/AChavignon/PALA) |
 | **PALA · Zenodo** | Public simulated and in vivo datasets. | [Download datasets · DOI: 10.5281/zenodo.4343435](https://doi.org/10.5281/zenodo.4343435) |
 
 We thank the PALA authors for making these resources publicly available. Please refer to the original repositories for dataset details, usage terms, and citation information.
