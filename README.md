@@ -97,7 +97,7 @@ Explore each sample across the three visualization types. **Click any image to o
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="PALA_results/intensity/RatKidney.png"><img src="PALA_results/intensity/RatKidney.png" alt="Rat kidney: intensity reconstruction" width="280" height="187"></a></td>
+      <td align="center"><a href="PALA_results/intensity/RatKidney.png"><img src="PALA_results/intensity/RatKidney.png" alt="Rat kidney: intensity reconstruction" width="280" height="150"></a></td>
       <td align="center"><a href="PALA_results/direction/RatKidney.png"><img src="PALA_results/direction/RatKidney.png" alt="Rat kidney: direction reconstruction" width="280"></a></td>
       <td align="center"><a href="PALA_results/velocity/Kidney.png"><img src="PALA_results/velocity/Kidney.png" alt="Rat kidney: velocity reconstruction" width="280"></a></td>
     </tr>
