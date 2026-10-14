@@ -11,7 +11,7 @@
 <br>
 
 <a href="PALA_results/intensity/RatBrain.png">
-  <img src="PALA_results/intensity/RatBrain.png" alt="Rat brain ULM intensity reconstruction" width="720">
+  <img src="PALA_results/intensity/RatBrain.png" alt="Rat brain ULM intensity reconstruction" width="720" height="489">
 </a>
 
 *Microvascular reconstruction of the rat brain on the public PALA dataset.*
@@ -28,18 +28,22 @@
 
 This repository presents additional reconstruction results on the public **PALA dataset**, with complementary views of vascular structure and flow.
 
+| Intensity | Direction | Velocity |
+| :--- | :--- | :--- |
+| Reconstruction intensity maps | Flow-direction visualizations | Velocity-magnitude maps |
+
 ## Public dataset
 
 The reconstructions shown below use the publicly available **PALA dataset**. PALA provides simulated and in vivo ultrasound data for ultrasound localization microscopy research.
 
 | Resource | Description | Link |
 | :--- | :--- | :--- |
-| **PALA · GitHub** | MATLAB scripts and functions for the PALA benchmark, together with the LOTUS software. | https://github.com/AChavignon/PALA |
+| **PALA · GitHub** | MATLAB scripts and functions for the PALA benchmark, together with the LOTUS software. | [Explore PALA](https://github.com/AChavignon/PALA) |
 | **PALA · Zenodo** | Public simulated and in vivo datasets. | [Download datasets · DOI: 10.5281/zenodo.4343435](https://doi.org/10.5281/zenodo.4343435) |
 
 We thank the PALA authors for making these resources publicly available. Please refer to the original repositories for dataset details, usage terms, and citation information.
 
-## Reconstruction
+## Reconstruction gallery
 
 Explore each sample across the three visualization types. **Click any image to open the full-resolution PNG.** Color scales and annotations are retained as provided in the original images.
 
@@ -55,7 +59,7 @@ Explore each sample across the three visualization types. **Click any image to o
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="PALA_results/intensity/RatBrain.png"><img src="PALA_results/intensity/RatBrain.png" alt="Rat brain: intensity reconstruction" width="280"></a></td>
+      <td align="center"><a href="PALA_results/intensity/RatBrain.png"><img src="PALA_results/intensity/RatBrain.png" alt="Rat brain: intensity reconstruction" width="280" height="190"></a></td>
       <td align="center"><a href="PALA_results/direction/RatBrain.png"><img src="PALA_results/direction/RatBrain.png" alt="Rat brain: direction reconstruction" width="280"></a></td>
       <td align="center"><a href="PALA_results/velocity/RatBrain.png"><img src="PALA_results/velocity/RatBrain.png" alt="Rat brain: velocity reconstruction" width="280"></a></td>
     </tr>
@@ -93,7 +97,7 @@ Explore each sample across the three visualization types. **Click any image to o
   </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="PALA_results/intensity/RatKidney.png"><img src="PALA_results/intensity/RatKidney.png" alt="Rat kidney: intensity reconstruction" width="280"></a></td>
+      <td align="center"><a href="PALA_results/intensity/RatKidney.png"><img src="PALA_results/intensity/RatKidney.png" alt="Rat kidney: intensity reconstruction" width="280" height="187"></a></td>
       <td align="center"><a href="PALA_results/direction/RatKidney.png"><img src="PALA_results/direction/RatKidney.png" alt="Rat kidney: direction reconstruction" width="280"></a></td>
       <td align="center"><a href="PALA_results/velocity/Kidney.png"><img src="PALA_results/velocity/Kidney.png" alt="Rat kidney: velocity reconstruction" width="280"></a></td>
     </tr>
@@ -119,11 +123,23 @@ Explore each sample across the three visualization types. **Click any image to o
   </tbody>
 </table>
 
+## Image index
+
+Direct links to all full-resolution reconstructions.
+
+| Sample | Intensity | Direction | Velocity |
+| :--- | :---: | :---: | :---: |
+| Rat brain | [PNG](PALA_results/intensity/RatBrain.png) | [PNG](PALA_results/direction/RatBrain.png) | [PNG](PALA_results/velocity/RatBrain.png) |
+| Rat brain · bolus | [PNG](PALA_results/intensity/RatBrainBolus.png) | [PNG](PALA_results/direction/RatBrainBolus.png) | [PNG](PALA_results/velocity/RatBrainBolus.png) |
+| Rat kidney | [PNG](PALA_results/intensity/RatKidney.png) | [PNG](PALA_results/direction/RatKidney.png) | [PNG](PALA_results/velocity/Kidney.png) |
+| Mouse tumor | [PNG](PALA_results/intensity/MouseTumor.png) | [PNG](PALA_results/direction/MouseTumor.png) | [PNG](PALA_results/velocity/MouseTumor.png) |
+
 <details>
 <summary><strong>Viewing notes</strong></summary>
 
 - Open the original PNG to inspect fine vascular details and image annotations.
 - Gallery images are scaled for display; source files retain their original resolution.
+- Rat brain and rat kidney intensity previews use the aspect ratios of their corresponding direction images; click through to view the unmodified originals.
 - Read velocity ranges from the annotations in each source image.
 - The rat kidney velocity file is named `Kidney.png`; its intensity and direction files are named `RatKidney.png`.
 
